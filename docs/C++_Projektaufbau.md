@@ -59,8 +59,6 @@ void Beispiel::sagHallo() {
 | `Util.h/.cpp`          | Kleine Hilfsfunktionen (z. B. Zufallszahlen, Delay).         |
 | `Compat.h`             | Kompatibilitätsmakros für PROGMEM und Flash-Strings.         |
 
----
-
 ## 📘 Fazit
 
 Diese Struktur ist der Standard in C++-Projekten.
